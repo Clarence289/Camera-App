@@ -46,4 +46,4 @@ Before you begin, ensure you have the following software installed:
 
    ```bash
    git clone https://github.com/Clarence289/Camera-App.git
-   cd react-native-camera-app
+   cd Camera-App
